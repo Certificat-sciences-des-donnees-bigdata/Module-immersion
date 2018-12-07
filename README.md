@@ -23,7 +23,7 @@ ______
 - [Agrégation de modèles](http://wikistat.fr/pdf/st-m-app-agreg.pdf) 
 - [Réseaux de neurones](http://wikistat.fr/pdf/st-m-app-rn.pdf) 
 - [Machines à vecteurs supports](http://wikistat.fr/pdf/st-m-app-svm.pdf) 
-- Apprentissage supervisé: slides apprentissageSuperive.pdf dans Documents.
+- Apprentissage supervisé: slides apprentissageSupervise.pdf dans Documents.
 
 
 ### 1.2 Travail personnel demandé 
