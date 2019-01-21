@@ -29,6 +29,10 @@ ______
 ### 1.2 Travail personnel demandé 
 Exécuter le notebooks contenus dans les chapitres 6 et 8 à 11 dans: https://github.com/erachelson/Mlclass. 
 
+### 1.3 TP spam
+La séance de TP prévue jeudi 10 janvier a été annulée. 
+Réaliser le TP en autonomie : https://github.com/wikistat/Apprentissage/tree/master/Spam
+
 ## 2 Techniques de virtualisation et containerisation, les plateformes cloud
 *A faire sur la période du 10/01/2019 au 31/01/2019*
 
