@@ -34,9 +34,8 @@ La séance de TP prévue jeudi 10 janvier a été annulée.
 Réaliser le TP en autonomie : https://github.com/wikistat/Apprentissage/tree/master/Spam
 
 ## 2 Techniques de virtualisation et containerisation, les plateformes cloud
-*A faire sur la période du 10/01/2019 au 31/01/2019*
 
-Les contenus seront ajoutés plus tard. 
+Cours et séance de TP le 31 janvier.
 
 ## 3 Algorithmes stochastiques plus sophistiqués : optimisation parcimonieuse, factorisation non négative de matrice
 *A faire sur la période du 01/02/2019 au 07/02/2019*
