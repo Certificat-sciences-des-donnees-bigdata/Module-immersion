@@ -38,6 +38,7 @@ Réaliser le TP en autonomie : https://github.com/wikistat/Apprentissage/tree/ma
 Cours et séance de TP le 31 janvier.
 
 ## 3 Algorithmes stochastiques plus sophistiqués : optimisation parcimonieuse, factorisation non négative de matrice
-*A faire sur la période du 01/02/2019 au 07/02/2019*
 
-Les contenus seront ajoutés plus tard. 
+Slides pour le cours du 7 Fevrier: opti.pdf dans Documents
+
+Notebook pour le TP du 7 Fevrier: notebook_opti.ipynb dans Documents
