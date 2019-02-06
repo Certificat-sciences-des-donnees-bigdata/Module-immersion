@@ -41,4 +41,4 @@ Cours et séance de TP le 31 janvier.
 
 Slides pour le cours du 7 Fevrier: opti.pdf dans Documents
 
-Notebook pour le TP du 7 Fevrier: notebook_opti.ipynb dans Documents
+Notebook pour le TP du 7 Fevrier: tp_7fevrier.ipynb dans Documents
