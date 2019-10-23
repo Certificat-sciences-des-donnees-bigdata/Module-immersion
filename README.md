@@ -18,7 +18,7 @@ ______
 
 ### 1.1 Documents de base à consulter en autonomie
 - Consulter les chapitres 6 et 8 à 11  dans: (https://github.com/erachelson/Mlclass).
-- Régression Lasso: CoursRegLasso.pdf dans Documents.
+- Régression Lasso: CoursRegLasso.pdf(https://github.com/Certificat-sciences-des-donnees-bigdata/Module-immersion/blob/master/Documents/CoursRegLasso.pdf).
 - [Arbres binaires de décision](http://wikistat.fr/pdf/st-m-app-cart.pdf)
 - [Agrégation de modèles](http://wikistat.fr/pdf/st-m-app-agreg.pdf) 
 - [Réseaux de neurones](http://wikistat.fr/pdf/st-m-app-rn.pdf) 
