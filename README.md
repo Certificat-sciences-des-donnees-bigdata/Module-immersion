@@ -21,7 +21,7 @@ Les slides seront bientôt fournis ici.
 
 ### 1.2 Séance en présentiel le 5 Décembre 2020
 
-La deuxième partie du notebook TP ozone (à partir de la section 4.4) fera l'object de cette séance. 
+La deuxième partie du notebook [TP ozone](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Pic-Ozone-Python.ipynb) (à partir de la section 4.4) fera l'object de cette séance. 
 
 ### 1.3 Documents de base à consulter en autonomie
 Retrouvez ici les contenus à étudier en autonomie, à faire sur la période du 06/12/2019 au 08/01/2020.
@@ -39,7 +39,7 @@ A faire sur la période du 06/12/2019 au 08/01/2020.
 Exécuter le notebooks contenus dans les chapitres 6 et 8 à 11 dans: https://github.com/erachelson/Mlclass. 
 
 ### 1.5 Séance en présentiel le 9 Janvier 2020.
-TP spam. Le TP est disponible ici: https://github.com/wikistat/Apprentissage/tree/master/Spam
+Le [TP spam](https://github.com/wikistat/Apprentissage/tree/master/Spam) fera l'object de cette séance.
 
 ## 2 Techniques de virtualisation et containerisation, les plateformes cloud
 
