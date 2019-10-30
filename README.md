@@ -12,7 +12,7 @@ _____
 ______
 
 
-## 1  Neural Networks, Decision trees, Boosting, Bagging, Random Forests.
+## 1  Les méthodes d'apprentissage : arbre binaire de décision, réseaux de neurones, support vector machines, agrégation d'arbres.
 Ces sujets font l'objet de la première partie du module immersion. Une introduction générale sera donnée pendant le présentiel du 21 Novembre. Le concepts étudiés seront en suite mis en pratique pendant la séance de TP du 5 Décembre. Pendant la période du 6 Décembre 2019 au 8 Janvier 2020, les étudiants vont approfondir les sujets présentés, en consultant les document fournis ci-bas. Ces sujets seront traités en présentiel pendant la séance de TP du 9 Janvier.    
 
 ### 1.1 Séance en présentiel le 21 Novembre 2020
