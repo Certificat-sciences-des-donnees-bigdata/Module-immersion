@@ -5,7 +5,7 @@ _____
 
 - Séance en présentiel le 21 Novembre 2020.
 - Séance en présentiel le 5 Décembre 2020.
-- Du 6 Décembre 2019 au 8 Janvier 2020 : faire le paragraphe 1.
+- Du 6 Décembre 2019 au 8 Janvier 2020 : faire le paragraphe 1.3 & 1.4
 - Séance en présentiel le 9 Janvier 2020.
 - Séance en présentiel le  30 Janvier 2020.
 - Séance en présentiel le 13 Février 2020.
