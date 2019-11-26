@@ -17,7 +17,12 @@ Ces sujets font l'objet de la première partie du module immersion. Une introduc
 
 ### 1.1 Séance en présentiel le 21 Novembre 2020
 
-Les slides seront bientôt fournis ici. 
+- Régression Lasso: [CoursRegLasso.pdf](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-immersion/blob/master/Documents/CoursRegLasso.pdf).
+- [Arbres binaires de décision](http://wikistat.fr/pdf/st-m-app-cart.pdf)
+- [Agrégation de modèles](http://wikistat.fr/pdf/st-m-app-agreg.pdf) 
+- [Réseaux de neurones](http://wikistat.fr/pdf/st-m-app-rn.pdf) 
+- [Machines à vecteurs supports](http://wikistat.fr/pdf/st-m-app-svm.pdf) 
+- Apprentissage supervisé: slides apprentissageSupervise.pdf dans Documents. 
 
 ### 1.2 Séance en présentiel le 5 Décembre 2020
 
@@ -26,12 +31,6 @@ La deuxième partie du notebook [TP ozone](https://github.com/Certificat-science
 ### 1.3 Documents de base à consulter en autonomie
 Retrouvez ici les contenus à étudier en autonomie, à faire sur la période du 06/12/2019 au 08/01/2020.
 - Consulter les chapitres 6 et 8 à 11  dans: (https://github.com/erachelson/Mlclass).
-- Régression Lasso: [CoursRegLasso.pdf](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-immersion/blob/master/Documents/CoursRegLasso.pdf).
-- [Arbres binaires de décision](http://wikistat.fr/pdf/st-m-app-cart.pdf)
-- [Agrégation de modèles](http://wikistat.fr/pdf/st-m-app-agreg.pdf) 
-- [Réseaux de neurones](http://wikistat.fr/pdf/st-m-app-rn.pdf) 
-- [Machines à vecteurs supports](http://wikistat.fr/pdf/st-m-app-svm.pdf) 
-- Apprentissage supervisé: slides apprentissageSupervise.pdf dans Documents.
 
 
 ### 1.4 Travail personnel demandé 
