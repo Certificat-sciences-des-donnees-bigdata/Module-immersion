@@ -41,7 +41,7 @@ Le [TP spam](https://github.com/wikistat/Apprentissage/tree/master/Spam) fera l'
 
 ## 2 Techniques de virtualisation et containerisation, les plateformes cloud
 
-Cours et séance de TP le 30 Janvier. Aucun travail personnel est demandé. 
+[Cours](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-immersion/blob/master/Introduction%20to%20cloud%20computing.pdf) et [séance de TP le 30 Janvier](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-immersion/blob/master/Example%20with%20Amazon%20Web%20Service.pdf). Aucun travail personnel est demandé. 
 
 ## 3 Algorithmes stochastiques plus sophistiqués : optimisation parcimonieuse, factorisation non négative de matrice
 
