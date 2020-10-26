@@ -13,8 +13,7 @@ ______
 
 ## 1 Infrastructures du big data
 
-*Le cours est disponible dans le fichier Documents*
-[Infrastructures](http://sd-127206.dedibox.fr/hagimont/certificat/certif-bigdata-py.pdf).
+*Le support pour le cours du 3 novembre 2020 est disponible* [ici](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-immersion/blob/master/Documents/Certificat%20Big%20Data%20-%20Infra%20logicielles%20Big%20Data%203nov2020.pdf).
 
 <ins> Séance en ligne le mardi 3 novembre 2020. </ins>
 
