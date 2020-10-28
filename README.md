@@ -13,11 +13,11 @@ ______
 
 ## 1 Infrastructures du big data
 
-*Le support pour le cours du 3 novembre 2020 est disponible* [ici](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-immersion/blob/master/Documents/Certificat%20Big%20Data%20-%20Infra%20logicielles%20Big%20Data%203nov2020.pdf).
+*Le support pour le cours du 3 novembre 2020 est disponible* [ici](http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certif-bigdata-py.pdf).
 
 <ins> Séance en ligne le mardi 3 novembre 2020. </ins>
 
-Le TP Spark est disponible [ici](http://sd-127206.dedibox.fr/hagimont/certificat/). 
+Le TP Spark est disponible [ici](http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certificat.html). 
 
 <ins> Séance en ligne le jeudi 5 novembre 2020. </ins>
 
