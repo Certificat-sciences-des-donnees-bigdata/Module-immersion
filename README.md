@@ -63,8 +63,8 @@ Aucun travail personnel est demandé pour cette partie.
 Pour ce projet vous allez travailler en groupe de 4-5 personnes. Le sujet et les explications du projet sont disponibles ici: https://www.kaggle.com/t/f37f1e487597454cb3ebcf02d39d47fb.
 
 Les étapes: 
-1/Créer un compte sur kaggle.com en utilisant votre nom et prénom
-2/Créer une équipe dans l'onglet "Team" de la plateforme kaggle
-3/Suivre les instructions sur la plateforme.
-4/Si vous avez des questions vous pouvez communiquer avec l'équipe pédagogique et les autres élèves sur Slack dans le canal dédié: #m2-projet-de-fin-de-module2
-5/Les soumissions doivent être faites directement sur la plateforme kaggle au plus tard le 31 mars. **ATTENTION: il est important de commencer ce projet le plut tôt possible pour pouvoir envoyer les soumissions avant le deadline.**
+-Créer un compte sur kaggle.com en utilisant votre nom et prénom
+-Créer une équipe dans l'onglet "Team" de la plateforme kaggle
+-Suivre les instructions sur la plateforme.
+-Si vous avez des questions vous pouvez communiquer avec l'équipe pédagogique et les autres élèves sur Slack dans le canal dédié: #m2-projet-de-fin-de-module2
+-Les soumissions doivent être faites directement sur la plateforme kaggle au plus tard le 31 mars. **ATTENTION: il est important de commencer ce projet le plut tôt possible pour pouvoir envoyer les soumissions avant le deadline.**
